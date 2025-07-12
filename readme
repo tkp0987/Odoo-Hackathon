@@ -1,0 +1,43 @@
+🛠️ Skill Swap Platform
+📌 Overview
+The Skill Swap Platform is a mini-application that enables users to list the skills they offer and request skills from others in return. It fosters a collaborative environment where users can learn and grow by exchanging their talents directly.
+
+🌟 Key Features
+User Profiles
+
+Name, location (optional), profile photo (optional)
+
+Public/private profile setting
+
+Skill Listings
+
+List of skills offered
+
+List of skills wanted
+
+Availability info (e.g., weekends, evenings)
+
+Discovery
+
+Browse or search for users by specific skills (e.g., "Photoshop", "Excel")
+
+Swap System
+
+Send, accept, reject, or delete skill swap requests
+
+View pending and confirmed swaps
+
+Feedback
+
+Leave ratings or feedback after a successful swap
+
+🔐 Admin Capabilities
+Monitor and moderate skill listings
+
+Reject inappropriate content
+
+Ban users violating policies
+
+View logs and download user activity reports
+
+Broadcast platform-wide announcements
