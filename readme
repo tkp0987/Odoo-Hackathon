@@ -1,43 +1,46 @@
-🛠️ Skill Swap Platform
-📌 Overview
-The Skill Swap Platform is a mini-application that enables users to list the skills they offer and request skills from others in return. It fosters a collaborative environment where users can learn and grow by exchanging their talents directly.
+# 💡 Skill Swap Platform
 
-🌟 Key Features
-User Profiles
+A collaborative platform where users can exchange skills by offering what they know and requesting what they want to learn. This creates a community-driven learning environment that eliminates the need for financial transactions and promotes mutual growth.
 
-Name, location (optional), profile photo (optional)
+---
 
-Public/private profile setting
+## 🚀 Features
 
-Skill Listings
+- 🌐 User-friendly interface for skill matching
+- 🔍 Search and filter users by skills or availability
+- 🔁 Skill offered ↔ Skill wanted matching
+- 📩 Skill swap request system
+- 👤 Profile display with ratings and avatars
 
-List of skills offered
+---
 
-List of skills wanted
+## 🛠 Tech Stack
 
-Availability info (e.g., weekends, evenings)
+| Layer            | Tech Used                       |
+|------------------|----------------------------------|
+| Frontend         | HTML, CSS, JavaScript, React     |
+| Styling          | Custom CSS, Bootstrap / Tailwind |
+| Backend (future) | Node.js / Express or JSP/Servlet |
+| Version Control  | Git & GitHub                     |
 
-Discovery
+---
 
-Browse or search for users by specific skills (e.g., "Photoshop", "Excel")
+🧑‍💻 Team Members
 
-Swap System
+Name                            Email
+Akshat Purohit              purohitakshat420@gmail.com
 
-Send, accept, reject, or delete skill swap requests
+Prisha Bhatt                bhattprisha1412@gmail.com
 
-View pending and confirmed swaps
+Taksh Patel                 takshp03@gmail.com
 
-Feedback
+Panth Patel                 panth2711200@gmail.com
 
-Leave ratings or feedback after a successful swap
 
-🔐 Admin Capabilities
-Monitor and moderate skill listings
+## 📦 Installation
 
-Reject inappropriate content
+### 1. Clone the repository
 
-Ban users violating policies
-
-View logs and download user activity reports
-
-Broadcast platform-wide announcements
+```bash
+git clone https://github.com/yourusername/skill-swap-platform.git
+cd skill-swap-platform
